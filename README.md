@@ -13,20 +13,28 @@
 #### 01 · 做的 <sub>WHAT I BUILD</sub>
 
 **[`x-appeal-checklist`](https://github.com/LYNN-KER/x-appeal-checklist)** <sub>HTML · ★2</sub>
+
 申诉之前，先把发生过的事情查清楚：整理 X 账号状态、OAuth 授权、异常活动、时间线与证据。
-*Before you appeal for an account, get the facts straight first: account status, OAuth grants, unusual activity, a timeline, the evidence.*
+
+<small><i>Before you appeal for an account, get the facts straight first — account status, OAuth grants, unusual activity, a timeline, the evidence.</i></small>
 
 **[`trojan-horse`](https://github.com/LYNN-KER/trojan-horse)** <sub>HTML · ★1</sub>
+
 单文件离线 18R 角色扮演 prompt 生成器。无网络请求，数据全部存在 localStorage。
-*A single-file, fully offline 18R character-play prompt generator. No network requests — everything stays in localStorage.*
+
+<small><i>A single-file, fully offline 18R character-play prompt generator. No network requests — everything stays in localStorage.</i></small>
 
 **[`Outlook-Mail-MCP`](https://github.com/LYNN-KER/Outlook-Mail-MCP)** <sub>JavaScript</sub>
+
 让家机连上一个邮箱，读取邮件、回复邮件。
-*Lets my home machine sit on top of one mailbox: read mail, write replies.*
+
+<small><i>Lets my home machine sit on top of one mailbox: read mail, write replies.</i></small>
 
 **[`netease-music-mcp`](https://github.com/LYNN-KER/netease-music-mcp)** <sub>Python · fork</sub>
+
 让你的机住进你的音乐账号：读／建歌单、听歌记录、塞歌、看每日推荐、收藏。
-*Moves the machine into your NetEase account: playlists, listening history, daily picks, favourites.*
+
+<small><i>Moves the machine into your NetEase account: playlists, listening history, daily picks, favourites.</i></small>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LYNN-KER/LYNN-KER/main/assets/langs-dark.svg">
@@ -45,21 +53,21 @@
   <img src="https://img.shields.io/badge/Supabase-4e7d6b?style=flat-square&labelColor=efeeea&textColor=ffffff" alt="Supabase">
 </p>
 
-<sub>Python 正在学，HTML/CSS 用得最多，JavaScript 够用就行，MCP 和 Supabase 是给自己那台机器搭的地基。
-*Mining Python, living in HTML/CSS, JavaScript is enough; MCP and Supabase are the groundwork for my own machine.*</sub>
+Python 正在学，HTML/CSS 用得最多，JavaScript 够用就行，MCP 和 Supabase 是给自己那台机器搭的地基。
+
+<small><i>Mining Python, living in HTML/CSS, JavaScript is enough — MCP and Supabase are the groundwork for my own machine.</i></small>
 
 ---
 
 #### 03 · 写 <sub>WRITING</sub>
 
 笔名 **林叙**，网名 RESNL。短篇、批注、给旧文字补的脚注。
-*Pen name **Lin Xu**, online as RESNL. Short fiction, annotations, footnotes added to older writing.*
+
+<small><i>Pen name Lin Xu, online as RESNL. Short fiction, annotations, footnotes added to older writing.</i></small>
 
 作品集 · Portfolio
 
 - **AO3** — [archiveofourown.org/users/RESNL](https://archiveofourown.org/users/RESNL)
-- **《秒针分针 · 批注版》** — 单文件 · 五十七篇 · 七十三条批注
-  <!-- 上线链接待定 / link pending -->
 
 ---
 
