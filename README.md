@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LYNN-KER/LYNN-KER/main/assets/github-banner.jpg" alt="夜里的房间：烛台、窗外的月亮" style="max-width:100%;opacity:.7;border-radius:6px;">
+</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LYNN-KER/LYNN-KER/main/assets/header-dark.svg">
   <img alt="RESNL" src="https://raw.githubusercontent.com/LYNN-KER/LYNN-KER/main/assets/header-light.svg">
