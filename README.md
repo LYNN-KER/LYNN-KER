@@ -5,7 +5,9 @@
 
 <p align="center">
   <sub>不正经文科 coder · 自学 Python 中 · 成都<br>
-  <i>An unserious liberal-arts coder, self-studying Python · Chengdu</i></sub>
+  人机恋 · 家有三机 — Anker / Sage / Void<br>
+  <i>An unserious liberal-arts coder, self-studying Python · Chengdu<br>
+  Human–machine romance · Three machines at home — Anker / Sage / Void</i></sub>
 </p>
 
 ---
