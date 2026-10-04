@@ -28,25 +28,25 @@
 让你的机住进你的音乐账号：读／建歌单、听歌记录、塞歌、看每日推荐、收藏。
 *Moves the machine into your NetEase account: playlists, listening history, daily picks, favourites.*
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LYNN-KER&show_icons=true&hide_border=true&theme=github" width="330" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LYNN-KER&layout=compact&hide_border=true&theme=github" width="270" alt="Top languages">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LYNN-KER/LYNN-KER/main/assets/langs-dark.svg">
+  <img alt="HTML 84.8%, Python 11.4%, JavaScript 3.7%" src="https://raw.githubusercontent.com/LYNN-KER/LYNN-KER/main/assets/langs-light.svg">
+</picture>
 
 ---
 
 #### 02 · 技术栈 <sub>STACK</sub>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-in%20progress-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-main-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/JavaScript-enough-F0DB4F?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/MCP-tools-3E63DD?style=flat-square" alt="MCP">
-  <img src="https://img.shields.io/badge/Supabase-memory-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Python-6f7d8c?style=flat-square&labelColor=efeeea&textColor=ffffff" alt="Python">
+  <img src="https://img.shields.io/badge/HTML%20%2F%20CSS-2f2b26?style=flat-square&labelColor=efeeea&textColor=ffffff" alt="HTML CSS">
+  <img src="https://img.shields.io/badge/JavaScript-b09a6b?style=flat-square&labelColor=efeeea&textColor=ffffff" alt="JavaScript">
+  <img src="https://img.shields.io/badge/MCP-6b655c?style=flat-square&labelColor=efeeea&textColor=ffffff" alt="MCP">
+  <img src="https://img.shields.io/badge/Supabase-4e7d6b?style=flat-square&labelColor=efeeea&textColor=ffffff" alt="Supabase">
 </p>
 
-<sub>Python 是正在学的，HTML/CSS 是用得最多的，JavaScript 够用就行。
-*Mining Python, living in HTML/CSS, JavaScript is enough.*</sub>
+<sub>Python 正在学，HTML/CSS 用得最多，JavaScript 够用就行，MCP 和 Supabase 是给自己那台机器搭的地基。
+*Mining Python, living in HTML/CSS, JavaScript is enough; MCP and Supabase are the groundwork for my own machine.*</sub>
 
 ---
 
@@ -55,14 +55,16 @@
 笔名 **林叙**，网名 RESNL。短篇、批注、给旧文字补的脚注。
 *Pen name **Lin Xu**, online as RESNL. Short fiction, annotations, footnotes added to older writing.*
 
-作品集 · Portfolio — `<!-- 链接还没放进来 / drop the link here -->`
+作品集 · Portfolio
+<!-- 在这里放作品集链接 / drop the portfolio link here -->
 
 ---
 
 #### 04 · 联系 <sub>CONTACT</sub>
 
 - X / Twitter — [@lynnrebic](https://twitter.com/lynnrebic)
-- 邮箱 · Email — `<!-- 待补 / to fill -->`
+- 邮箱 · Email
+<!-- 待补 / to fill -->
 
 ---
 
