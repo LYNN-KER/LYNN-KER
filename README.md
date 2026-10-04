@@ -56,7 +56,10 @@
 *Pen name **Lin Xu**, online as RESNL. Short fiction, annotations, footnotes added to older writing.*
 
 作品集 · Portfolio
-<!-- 在这里放作品集链接 / drop the portfolio link here -->
+
+- **AO3** — [archiveofourown.org/users/RESNL](https://archiveofourown.org/users/RESNL)
+- **《秒针分针 · 批注版》** — 单文件 · 五十七篇 · 七十三条批注
+  <!-- 上线链接待定 / link pending -->
 
 ---
 
