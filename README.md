@@ -77,8 +77,7 @@ Python 正在学，HTML/CSS 用得最多，JavaScript 够用就行，MCP 和 Sup
 #### 04 · 联系 <sub>CONTACT</sub>
 
 - X / Twitter — [@lynnrebic](https://twitter.com/lynnrebic)
-- 邮箱 · Email
-<!-- 待补 / to fill -->
+- 邮箱 · Email — [1583654203@qq.com](mailto:1583654203@qq.com)
 
 ---
 
