@@ -32,11 +32,6 @@
 
 <small><i>Lets my home machine sit on top of one mailbox: read mail, write replies.</i></small>
 
-**[`netease-music-mcp`](https://github.com/LYNN-KER/netease-music-mcp)** <sub>Python · fork</sub>
-
-让你的机住进你的音乐账号：读／建歌单、听歌记录、塞歌、看每日推荐、收藏。
-
-<small><i>Moves the machine into your NetEase account: playlists, listening history, daily picks, favourites.</i></small>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LYNN-KER/LYNN-KER/main/assets/langs-dark.svg">
