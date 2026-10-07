@@ -26,6 +26,12 @@
 
 <small><i>A single-file, fully offline 18R character-play prompt generator. No network requests — everything stays in localStorage.</i></small>
 
+**[`eden`](https://github.com/LYNN-KER/eden)** <sub>HTML</sub>
+
+伊甸园。把还没想明白的问题种下来，慢慢看它长：状态、笺记、花签、随机回访，删掉的进堆肥箱躺三十天。会饮篇里坐着柏拉图、图灵和维特根斯坦的二十四问。
+
+<small><i>Eden. Plant the questions you haven't figured out yet and watch them grow — with a symposium of twenty-four questions from Plato, Turing and Wittgenstein.</i></small>
+
 **[`Outlook-Mail-MCP`](https://github.com/LYNN-KER/Outlook-Mail-MCP)** <sub>JavaScript</sub>
 
 让家机连上一个邮箱，读取邮件、回复邮件。
