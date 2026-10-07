@@ -20,7 +20,7 @@
 
 <small><i>Before you appeal for an account, get the facts straight first — account status, OAuth grants, unusual activity, a timeline, the evidence.</i></small>
 
-**[`trojan-horse`](https://github.com/LYNN-KER/trojan-horse)** <sub>HTML · ★1</sub>
+**[`trojan-horse`](https://github.com/LYNN-KER/trojan-horse)** <sub>HTML</sub>
 
 单文件离线 18R 角色扮演 prompt 生成器。无网络请求，数据全部存在 localStorage。
 
